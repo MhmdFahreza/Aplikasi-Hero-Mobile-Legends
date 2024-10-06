@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Aplikasi Hero ML</string>
+    <string name="heroes_name">Nama Hero Mobile Legends</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="page">About</string>
+    <string name="nameDeveloper">Muhammad Fahreza</string>
+    <string name="gmail">A115B4KY2806@bangkit.academy</string>
+    <string name="back">Back to Menu Utama</string>
+    <string-array name="data_name">
+        <item>Aldous</item>
+        <item>Alucard</item>
+        <item>Carmila</item>
+        <item>Cecilion</item>
+        <item>Granger</item>
+        <item>Gusion</item>
+        <item>Hanzo</item>
+        <item>Kaja</item>
+        <item>Saber</item>
+        <item>Selena</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Role : Fighter.
+            \nLane : Exp Lane
+
+            \n\n\nDeskripsi : Hero ini adalah hero yang memiliki stack hingga 500, untuk skill 1 nya dia mukul dan mendapatkan Stack tergantung last hit, skill 2 shield, dan skill 3nya ia me lock hero lawan dengan cara menargetkannya.
+        </item>
+        <item>
+            Role : Fighter.
+            \nLane : Exp Lane/Jungle
+
+            \n\n\nDeskripsi : Hero ini adalah hero dark system sebaiknya jangan digunakan karena pasifnya yang hanya didapat 5% saja pada saat basic attacknya dan pada saat ulti dapet tambahan hanya sebesar 10%. tapi untuk sekarang alucard rata rata memaainkannya dengan build damage dengan combo item Blade of Despair + War Axe udah bisa bantai bantai Land of Down.
+        </item>
+        <item>
+            Role : Tank/Support.
+            \nLane : Roam/Jungle
+
+            \n\n\nDeskripsi : Hero ini sebenernya hero yang cukup haram karena skill 3 nya yang cukup mematikan dia typical area sekalinya kena berdua sama temen partyan mu pasti mengurangi defense armor hingga 20%
+        </item>
+        <item>
+            Role : Mage.
+            \nLane : Midlaner
+
+            \n\n\nDeskripsi : Hero ini cukup meta di patch sekarang dengan skill 1 nya yang memainkan stack hingga tak terbatas yang menjadi langganan pick maupun di banned di tier Glory keatas.
+        </item>
+        <item>
+            Role : Marksman.
+            \nLane : Jungle/Goldlane
+
+            \n\n\nDeskripsi : Hero ini sebenernya lebih cocok menjadikannya Jungle karena skill 1 nya yang bisa memberikan burst damage menjadikannya saslah satu jungle mm yang tercepat dari segi Jungling.
+        </item>
+        <item>
+            Role : Assassin.
+            \nLane : Midlaner/Jugle/Goldlane
+
+            \n\n\nDeskripsi : Hero ini adalah hero yang cukup terkenal pada eranya yaitu 3/14 yang membuat nih hero masih menjadi langganan pick dengan skill 1 nya meluarkan kunai dan skill 2 nya seperti fliker dan ultinya bisa membalikan kembali skillnya.
+        </item>
+        <item>
+            Role : Assassin.
+            \nLane : Jungle
+
+            \n\n\nDeskripsi : Hero ini adalah hero farming tercepat dari hero jungle yang lain dengan skill 1 nya bisa melahap buff tapi ada stack sebanyak 6 untuk bisa melahap, kemudian skill 2 nya bisa men slow lawan dan skill 3 nya yang bisa merubah wujudnya seperti kuyang jawa.
+        </item>
+        <item>
+            Role : Support/Tank.
+            \nLane : Roam
+
+            \n\n\nDeskripsi : Hero ini sangat bagus sekali apalagi kalian bermain 5 atau party karena skillnya yang sangat bagus dengan skill 1  bisa nge slow dan skill 2 bisa memberi slow juga sekaligus memberikan biji biji listrik dan skill 3 nya yang paling OP yaitu bisa narik lawan sampai rungkad.
+        </item>
+        <item>
+            Role : Assassin.
+            \nLane : Jungle/Roam
+
+            \n\n\nDeskripsi : Hero ini yang sedang meta di patch sekarang karena skill 3 nya yang bisa mengangkat lawan membuat lawan tidak bisa bergerak, kemudian skill 1 nya yang meuarkan boomerang muter muter dan bisa balik lagi.
+        </item>
+        <item>
+            Role : Mage.
+            \nLane : Midlaner/Roam
+
+            \n\n\nDeskripsi :Hero ini adalah hero yang cukup underated sebenernya dikarenakan skill 2 nya yang meberikan stun hingga 3 detik dan bisa combo juga sama  skill 1 nya dan skill 3 nya berubah menjadi tampilan dark side nya yang bsia mencakar cakar lawan.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/aldous</item>
+        <item>@drawable/alucard</item>
+        <item>@drawable/carmila</item>
+        <item>@drawable/cecilion</item>
+        <item>@drawable/granger</item>
+        <item>@drawable/gusion</item>
+        <item>@drawable/hanzo</item>
+        <item>@drawable/kaja</item>
+        <item>@drawable/saber</item>
+        <item>@drawable/selena</item>
+    </integer-array>
+</resources>
